@@ -1,4 +1,4 @@
-# pizzaclassification
+# Pizza Classification
 
 This project classifies the pizzas of two types. Below are the explanation of what each file does
 
